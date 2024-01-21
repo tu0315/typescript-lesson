@@ -1,0 +1,8 @@
+超TypeScript入門 完全パック | Udemy https://www.udemy.com/course/typescript-complete/
+
+tsをjsにコンパイル
+tsc index.ts
+
+実行する
+node index.js
+
