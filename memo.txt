@@ -6,3 +6,5 @@ tsc index.ts
 実行する
 node index.js
 
+今日
+L7まで
